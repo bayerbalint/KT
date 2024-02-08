@@ -1,0 +1,6 @@
+1. feladat: a JavaScript_canvas_karacsonyfa.mkv megtekintése után egészítsd ki a karácsonyfát egy körbõl és egy háromszögbõl álló csúcsdísszel! (Amennyiben úgy látod jónak, a csúcsdísz tartalmazhat más alakzatokat is!). Mind a gömb, mind a csúcsdísz legyen színátmenetes kitöltésû. Az állomány neve legyen Saját_Nevem_karácsonyfa.html!
+2. feladat: a mellékelt canvas_anim.html állományt nevezd át Saját_Nevem_canvas_anim.html-re, majd lásd el az állományt kommentekkel, melyekkel elmagyarázod, hogy melyik sorban lévõ utasítás mit "csinál", vagy "mire való"!
+
+A két állományt kell beküldeni!
+
+Szorgalmi: a második feladat felhasználásával "hóesést" a karácsonyfa elé! A hópihék száma: 10 db, egyenletes sebességgel függõlegesen essenek. A hópihék kezdõ koordinátáit a canvas felsõ 10%-ában véletlenszerûen generáld! Ha egy hópihe középpontja elhagyta a a canvas-t, akkor generálj helyette másikat!

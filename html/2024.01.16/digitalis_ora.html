@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitális óra</title>
+</head>
+<body>
+    <h1>Az aktuális idő: <span id="ora" style="color: cadetblue;"></span></h1>
+</body>
+<script>
+    var valami = setInterval(function() {document.getElementById("ora").innerHTML = new Date().toLocaleTimeString();},1000)
+</script>
+</html>
