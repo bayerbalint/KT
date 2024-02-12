@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body{background-color: lightgray;}
+
+        .crousel-item img{
+            max-height: 500px;
+            margin: auto;
+        }
+
+        .carousel-item{
+            text-align: center;
+        }
+
+        .carousel-control-next .carousel-control-prev{
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="nezegeto" class="carousel slide" data-ride="carousel">
+        <!-- Irányító sáv a nyilakon kívül -->
+        <ol class="carousel-indicators">
+            <!-- A képek sorszámozása -->
+            <li data-target="#nezegeto" data-slide-to="0" class="active"></li>
+            <li data-target="#nezegeto" data-slide-to="1"></li>
+            <li data-target="#nezegeto" data-slide-to="2"></li>
+            <li data-target="#nezegeto" data-slide-to="3"></li>
+            <li data-target="#nezegeto" data-slide-to="4"></li>
+            <li data-target="#nezegeto" data-slide-to="5"></li>
+            <li data-target="#nezegeto" data-slide-to="6"></li>
+            <li data-target="#nezegeto" data-slide-to="7"></li>
+            <li data-target="#nezegeto" data-slide-to="8"></li>
+        </ol>
+        <div class="carousel-inner">
+            <!-- A képek megjelenítése -->
+            <div id="11" class="carousel-item active"><img src="snail1.png" class="img-fluid" alt="kép 11"></div>
+            <div id="12" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 12"></div>
+            <div id="13" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 13"></div>
+            <div id="14" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 14"></div>
+            <div id="15" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 15"></div>
+            <div id="16" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 16"></div>
+            <div id="17" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 17"></div>
+            <div id="18" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 18"></div>
+            <div id="19" class="carousel-item"><img src="snail1.png" class="img-fluid" alt="kép 19"></div>
+            <!-- A barra és jobbra gombok -->
+            <a class="carousel-control-prev" href="#nezegeto" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Vissza</span>
+            </a>
+            <a class="carousel-control-next" href="#nezegeto" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Előre</span>
+            </a>
+        </div>
+    </div>
+</body>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+    /* Carousel inicializálása */
+    $(document).ready(function()
+    {
+        $('.carousel').carousel();
+    });
+</script>
+</html>
