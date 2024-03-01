@@ -12,8 +12,6 @@ for sor in fajl:
 # 0:00 - 7:00 és 18:00 - 24:00 : vezetekes(15Ft/perc), mobil(46.675Ft/perc)
 # ha csúcsidőben kezdi akkor is annyit kell fizetni
 
-
-
 def telefonszam(tel):
     if tel.startswith('39') or tel.startswith('41') or tel.startswith('71'):
         return True
