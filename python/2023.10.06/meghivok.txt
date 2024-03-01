@@ -1,0 +1,160 @@
+Rém Elek;12A;7
+Szőke Mátyás;12A;3
+Bodnár Anna Katalin;12A;7
+Keszthelyi Zsolt;12A;8
+Kovai Róbert;12A;15
+Borsos Anett;12A;5
+Gál Brigitta;12A;10
+Csordás Kálmán;12A;11
+Schulcz Imola;12A;10
+Bánfalvi Ramóna;12A;13
+Teleki Kálmán;12A;5
+Sima Dezső;12A;6
+Püski Kata;12A;8
+Kis Nóra Judit;12A;13
+Zombori Adrienn;12A;12
+Petres Zoltán;12A;7
+Fogó Róbert;12A;11
+Tanács Lilla;12A;13
+Kiss Sándor;12A;13
+Kovács Vivien;12A;6
+Kun Anna;12A;7
+Kristóf Petra;12A;4
+Dóka Csenge;12A;15
+Kardos Norbert;12A;9
+Lengyel Anna;12A;4
+Nagy Lili Lujza;12A;4
+Forgó Elza;12A;8
+Vincze Adél;12A;12
+Csontos Imre;12A;7
+Bálint Laura;12A;9
+Ördög Fanni Zsófia;12A;7
+Kószó Petra;12A;6
+Hegedűs Réka;12B;12
+Kipall Ede;12B;3
+Tomma Árpád;12B;8
+Nagy Tímea;12B;7
+Kockás Tamás;12B;9
+Tóth Zita;12B;4
+Mezőlaki Gabriella;12B;11
+Weiler Endre;12B;6
+Kovács István;12B;6
+Farkas Betti;12B;10
+Solti Pál;12B;3
+Takács Ágota;12B;12
+Bencsik Áron;12B;7
+Herédi Gabriella;12B;8
+Bajnai Zsuzsanna;12B;12
+Keresztes Zsolt;12B;5
+Erdélyi Dóra;12B;14
+Varga Stella Gréta;12B;10
+Herceg Natália;12B;13
+Makra Csenge Kata;12B;8
+Ádám Éva;12B;14
+Németh Rebeka Anna;12B;13
+Bodor Flóra;12B;8
+Kaltenbrunner Norbert;12B;14
+Nemes Elek;12B;10
+Gyetvai Zsolt;12B;13
+Vass Réka;12B;7
+Nagy Eta;12B;15
+Varga Emese;12B;14
+Koródy Tamás;12B;9
+Nagy Anna Magdolna;12B;8
+Kozmann György;12C;11
+Fábián Eszter Aliz;12C;15
+Kőszegi Bernadett;12C;9
+Molnár Réka Evelin;12C;13
+Nyári Anna;12C;7
+Vajna Sára Réka;12C;14
+Földesi Kata;12C;13
+Kovács Imre;12C;9
+Sár Gábor;12C;5
+Berta Alexandra;12C;6
+Garai Nóra;12C;8
+Magyari Ivana;12C;15
+Kecskés László;12C;4
+Deme Noémi;12C;8
+Bordás Gábor;12C;10
+Tóth Tímea Kitti;12C;5
+Stofin József;12C;15
+Bog Aladár;12C;4
+Kószó Annamária;12C;7
+Sági Anikó;12C;4
+Csíbor Tamás;12C;13
+Vlad Igor;12C;11
+Nagy Réka;12C;8
+Kertész Nándor;12C;10
+Szűcs Melinda;12C;15
+Farkas Noémi Eszter;12C;8
+Kautzky Alfonz;12C;12
+Kertész Lili Barbara;12C;9
+Késmárky Péter;12C;12
+Kása Blanka;12C;10
+Kovács Fanni;12C;6
+Németh Edit;12C;9
+Dombovári Petra;12C;3
+Szabó Orsolya Virág;12G;14
+Nemes Gerda;12G;5
+Farkas Ildikó;12G;3
+Szabó Izabella Diána;12G;14
+Tóth Alexandra;12G;13
+Dorogi Nóra Gréta;12G;10
+Szekeres József;12G;13
+Kasznár Judit;12G;10
+Nagy Eszter;12G;3
+Rudas Ádám;12G;3
+Gábor Zita;12G;8
+Dobi Brigitta Krisztina;12G;6
+Halász Norbert;12G;14
+Dancs Zsófia Edit;12G;11
+Márkus Anna;12G;15
+Boldizsár Nóra Kata;12G;3
+Tóth Kálmán;12G;9
+Balla Fanni;12G;13
+Sipos Lilla;12G;6
+Oláh Sztella;12G;4
+Kiss Orsolya;12G;6
+Guttmann Gábor;12G;3
+Mészáros Stella;12G;3
+Kurucz Rebeka Judit;12G;3
+Bíró Alexandra Éva;12G;10
+Terjéki Zsuzsanna Emese;12G;9
+Jován Máté;12G;12
+Pászti Szimonetta;12G;4
+Bányai Balázs;12G;7
+Hajdú Kitti Ildikó;12G;15
+Budai Tamás;12G;12
+Kopasz Klaudia;12G;6
+Pusztai Géza;12P;6
+Mach Mózes;12P;12
+Török Éva;12P;8
+Ébner Dezső;12P;11
+Karlsen Ottó;12P;13
+Sütő Péter;12P;5
+Váradi Nóra;12P;12
+Fábián Nóra;12P;12
+Tárkány Csilla;12P;4
+Varga Alexandra;12P;12
+Molnár Dorottya;12P;14
+Csizmadia Mónika;12P;11
+Kereki Pál;12P;3
+Hámori Frigyes;12P;10
+Németh Zoltán;12P;13
+Csapó Gábor;12P;5
+Lehóczki Bernadett;12P;6
+Nyakas Dénes;12P;8
+Lisztes Imre;12P;6
+Tóth Zoltán;12P;9
+Bitó Réka Emese;12P;8
+Gyurcsik Zsófia Kata;12P;12
+Budavári Bence;12P;8
+Fazekas Tamás;12P;6
+Takács Kata;12P;7
+Dombi Ákos;12P;3
+Gipsz Jakab;12P;16
+Izsó Gusztáv;12P;13
+Kiss Blanka;12P;12
+Szűcs Miklós;12P;5
+Kelemen Enikő;12P;13
+Zólyomi Kristóf;12P;11
