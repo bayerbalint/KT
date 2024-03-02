@@ -29,6 +29,9 @@ class Meghivo:
         self.osztaly = osztaly
         self.darab = darab
 
+    def legtobb_meghivo(self):
+        print(f'c) A legtöbb meghívót igénylő tanuló:\ntanuló neve: {self.nev}, osztálya: {self.osztaly}, meghívók száma: {self.darab}')
+
 def ossz_meghivok():
     vegz_meghivok = 0
     for diak in adatok:
@@ -49,5 +52,4 @@ for sor in fajl:
 
 print(f'a) Az állomány {len(adatok)} adatsort tartalmaz.')
 print(f'b) A végzős diákok összesen {ossz_meghivok()} db meghívót igényeltek.')
-legtobb = legtobb_meghivo()
-print(f'c) A legtöbb meghívót igénylő tanuló:\ntanuló neve: {legtobb.nev}, osztálya: {legtobb.osztaly}, meghívók száma: {legtobb.darab}')
+legtobb_meghivo().legtobb_meghivo()
