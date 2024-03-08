@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>III. projekt</title>
+    <style>
+        body {
+            background-color:#4287f5;
+            color: white;
+        }
+
+        nav {
+            background-color: #7e99c4;
+            border: solid black 3px;
+        }
+        
+        ul {
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        li {
+            font-size: 20px;
+            list-style-type: none;
+        }
+
+        a:visited, a{
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#hasznalat">Függvények használata</a></li>
+                <li><a href="#megtekintes">Függvények megtekintése</a></li>
+                <li><a href="#atvaltas">Konzolos python alkalmazásra váltás</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div id="hasznalat">
+        <div>Szorzás</div><br><br><br><br><br><br><br><br><br><br>
+        <div>Hatványozás</div><br><br><br><br><br><br><br><br><br><br>
+        <div>Euler sorozat</div><br><br><br><br><br><br><br><br><br><br>
+        <div>Fibonacci sorozat</div><br><br><br><br><br><br><br><br><br><br>
+        <div>Binomiális sorozat</div><br><br><br><br><br><br><br><br><br><br>
+    </div>
+    
+    <div id="megtekintes">
+        <div><img src="./img/szorzas.png" alt="Rekurzív szorzás" title="Rekurzív szorzás"></div>
+        <div><img src="./img/szorzas.png" alt="Rekurzív hatványozás" title="Rekurzív hatványozás"></div>
+        <div><img src="./img/szorzas.png" alt="Rekurzív Euler sorozat" title="Rekurzív Euler sorozat"></div>
+        <div><img src="./img/szorzas.png" alt="Rekurzív Fibonacci sorozat" title="Rekurzív Fibonacci sorozat"></div>
+        <div><img src="./img/szorzas.png" alt="Rekurzív Binomiális sorozat" title="Rekurzív Binomiális sorozat"></div>
+    </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    <div id="atvaltas">
+        <button onclick="runScript()">Átváltás Konzolos python alkalmazásra</button>
+    </div>
+</body>
+<script>
+    function runScript() {
+        window.location.assign("https://anyudat.github.io/calculators")
+    };
+
+</script>
+</html>
