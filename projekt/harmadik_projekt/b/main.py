@@ -79,6 +79,6 @@ while fut:
         if fuggveny in fuggvenyek.keys():
             print(f'\nA(z) "{fuggvenyek[fuggveny][0].__name__}" függvény source kódja:\n',inspect.getsource(fuggvenyek[fuggveny][0]))
     elif tevekenyseg == 'w':
-        webbrowser.open('file:///H:/ikt/harmadik_projekt/b/index.html')
+        webbrowser.open('https://bayerbalint.github.io/KT/projekt/harmadik_projekt/b/index.html')
     elif tevekenyseg == 'e':
         fut = False
