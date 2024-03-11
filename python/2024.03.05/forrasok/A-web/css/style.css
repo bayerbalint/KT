@@ -1,0 +1,57 @@
+
+header{    
+    background-position: center center;
+    height: 350px;
+    background-image: url(../img/hatterkep.jpg);
+}
+
+h1{
+    background-color: rgba(248, 248, 248);
+    opacity: 0.75;
+    margin-top: 80px;
+    padding-left: 11rem;
+    font-family: 'Verdana';
+    color: #3f6217;
+    font-style: italic;
+}
+
+h2{    
+    margin-top: 10px;
+    color: #3f6217;
+    border-color: #3f6217;
+    border-left: 3px solid;
+    font-variant: small-caps;
+    padding: 6px 16px;
+}
+
+h3{    
+    font-weight: bold;
+    color: #894f3b;
+    text-align: center; /* Vagy display: block; és margin: auto; viszont a mintában nincs középre igazítva */
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+}
+
+td,th{
+    text-align: center;
+    font-variant: initial;
+}
+
+p {
+    text-align: justify;
+    text-indent: 14px;
+}
+
+li{
+    float: left;
+    margin-left: 35px;
+    list-style-image: url('../img/tree_icon.png');
+}
+
+.navbar {
+    background-color: rgb(108, 175, 8);
+}
+
+#elso_sor{
+    text-transform: uppercase;
+}
